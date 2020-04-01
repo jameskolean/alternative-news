@@ -1,4 +1,9 @@
 ---
 label: cta
 hide_body: true
-fields: []
+fields:
+- name: action
+  type: text
+  config:
+    required: false
+  label: Action
