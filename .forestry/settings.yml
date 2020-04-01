@@ -5,6 +5,10 @@ admin_path:
 webhook_url: 
 sections:
 - type: document
+  path: hero
+  label: Hero
+  match: "**/*"
+- type: document
   path: sample
   label: Sample
 upload_dir: uploads
