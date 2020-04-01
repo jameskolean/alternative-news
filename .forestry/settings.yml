@@ -7,7 +7,6 @@ sections:
 - type: document
   path: hero
   label: Hero
-  match: "**/*"
 - type: document
   path: sample
   label: Sample
